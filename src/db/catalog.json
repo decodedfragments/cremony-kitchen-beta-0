@@ -1,0 +1,1891 @@
+[
+ {
+  "handle": "two-tier-luxury-acrylic-gift-box",
+  "name": "Two Tier Luxury Gift Box",
+  "category": "gifting",
+  "subcategory": "Gift Boxes",
+  "dietary": [],
+  "description": "A premium collection of handcrafted baked treats and chocolates presented in a multi-layered clear acrylic gift box\nOption 1 Includes:\nAssorted Brownies (4 pcs)\nChocolate Walnut Tea Cake (300-500g)\nOption 2 Includes:\nAssorted Barks in Bangkok Bag (200g)\nApple Walnut Cake 8 inch\nBox sizes Approx- 8x8 and 5x5inch\nCustomisation is available to suit your preferences and gifting needs.",
+  "variants": [
+   {
+    "name": "Assorted Brownies & Chocolate Walnut Tea Cake",
+    "price": 2300,
+    "available": true
+   },
+   {
+    "name": "Assorted Barks & Apple Walnut Cake",
+    "price": 3150,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/unnamed_68c4c18b-db26-49fe-adfb-858fb3dbe1f0.png"
+  ],
+  "isBestseller": false,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 0
+ },
+ {
+  "handle": "two-tier-classic-gift-box",
+  "name": "Two Tier Classic Gift Box",
+  "category": "gifting",
+  "subcategory": "Gift Boxes",
+  "dietary": [],
+  "description": "Indulge in our signature two-tier clear acrylic classic box, beautifully decorated with ribbons and festive tags. Reusable, elegant, and perfect for Diwali gifting.\nOption 1 Includes:\nAlmond Rocks (150g)\nApple Walnut Cake 6 inch\nOption 2 Includes:\nFresh Madeleines (4 pcs)\nAssorted Cookies (16 pcs)\nBox sizes Approx - 7x7 and 4x4 inch\nCustomisation is available to suit your preferences and gifting needs.",
+  "variants": [
+   {
+    "name": "Almond Rocks & Apple Walnut Cake",
+    "price": 2275,
+    "available": true
+   },
+   {
+    "name": "Madeleines & Cookie Set",
+    "price": 2550,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/unnamed.png"
+  ],
+  "isBestseller": false,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 1
+ },
+ {
+  "handle": "the-keepsake",
+  "name": "The Keepsake",
+  "category": "gifting",
+  "subcategory": "Gift Boxes",
+  "dietary": [],
+  "description": "A smaller, thoughtful gifting option combining two Ceremony favourites - crisp, indulgent cookies and rich chocolate Toffee Bark. Simple, elegant and easy to gift.",
+  "variants": [
+   {
+    "name": "Standard",
+    "price": 1150,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/festive_4.png"
+  ],
+  "isBestseller": false,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 2
+ },
+ {
+  "handle": "the-everyday",
+  "name": "The Everyday",
+  "category": "gifting",
+  "subcategory": "Gift Boxes",
+  "dietary": [],
+  "description": "A comforting selection of freshly baked favourites - from soft cookies and rich brownies to delicate madeleines. Perfect for an afternoon of indulgence or festive sharing.",
+  "variants": [
+   {
+    "name": "Standard",
+    "price": 2050,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/festive_3.png"
+  ],
+  "isBestseller": false,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 3
+ },
+ {
+  "handle": "the-indulge",
+  "name": "The Indulge",
+  "category": "gifting",
+  "subcategory": "Gift Boxes",
+  "dietary": [],
+  "description": "A chocolate-led collection for the true chocolate lover, pairing classic Toffee Bark with the fresh notes of Matcha and the richness of Coffee.",
+  "variants": [
+   {
+    "name": "Standard",
+    "price": 3500,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/festive_2.png"
+  ],
+  "isBestseller": false,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 4
+ },
+ {
+  "handle": "the-feast",
+  "name": "The Feast",
+  "category": "gifting",
+  "subcategory": "Gift Boxes",
+  "dietary": [],
+  "description": "A generous assortment of Ceremony favourites, bringing together rich toffee bark, buttery cookies and indulgent almond rocks. A well-rounded box for sharing and celebrating.",
+  "variants": [
+   {
+    "name": "Standard",
+    "price": 3350,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/festive_1.png"
+  ],
+  "isBestseller": false,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 5
+ },
+ {
+  "handle": "flourless-chocolate-cloud-cake",
+  "name": "Flourless Chocolate Cloud Cake",
+  "category": "cakes",
+  "subcategory": "Celebration Cakes",
+  "dietary": [
+   "Gluten Free"
+  ],
+  "description": "Best selling fudgy and creamy not to mention gluten free chocolate cake. Topped with coffee flavoured Mascarpone.",
+  "variants": [
+   {
+    "name": "6 inch",
+    "price": 1650,
+    "available": true
+   },
+   {
+    "name": "8inch",
+    "price": 2500,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/3A0BF6E2-1733-4425-A181-C2A2F70A4226_ee1872f8-3dc5-4ad3-9e54-37b06a3dd54a.png",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/83DE0A84-C1D0-43CC-A577-98BA5041FF25_a49975ca-70ea-4a0b-a3ae-b7ffc05e6ff4.jpg"
+  ],
+  "isBestseller": true,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 7
+ },
+ {
+  "handle": "keto-gf-chocolate-torte",
+  "name": "Keto Chocolate Torte Gluten Free",
+  "category": "cakes",
+  "subcategory": "Celebration Cakes",
+  "dietary": [
+   "Gluten Free",
+   "Sugar Free",
+   "Keto"
+  ],
+  "description": "Nut flour based Dark Chocolate Cake, with no gluten. Long lasting, the perfect travel companion. Keto Friendly.",
+  "variants": [
+   {
+    "name": "6 Inch ~ 500g",
+    "price": 3000,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/WhatsAppImage2026-07-22at4.29.37PM.jpg"
+  ],
+  "isBestseller": false,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 8
+ },
+ {
+  "handle": "veg-puttanesca-sauce",
+  "name": "Tomato Basil Sauce",
+  "category": "pantry",
+  "subcategory": "Sauces & Jams",
+  "dietary": [
+   "Eggless",
+   "Gluten Free",
+   "Vegan"
+  ],
+  "description": "Ready-to-Use Gourmet Tomato Sauce.\nA classic blend of sun ripened tomatoes and fragrant basil, and the goodness of extra virgin olive oil, this sauce is your perfect companion for any meal that requires a tomato base. Be it Shakshuka or pasta or pizza or even Moroccan stew or Rajma chawal.",
+  "variants": [
+   {
+    "name": "400 Grams",
+    "price": 550,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/WhatsAppImage2026-05-12at1.09.24PM.jpg"
+  ],
+  "isBestseller": true,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 9
+ },
+ {
+  "handle": "ultimate-pecan-granola",
+  "name": "Ultimate Pecan Granola",
+  "category": "pantry",
+  "subcategory": "Granola",
+  "dietary": [
+   "Eggless",
+   "Gluten Free",
+   "Sugar Free",
+   "Vegan"
+  ],
+  "description": "Fine pecans, slow-toasted oats, and brown rice puffs with honey and cinnamon. Oven-baked for a light, golden crunch with a hint of natural sweetness.",
+  "variants": [
+   {
+    "name": "150g",
+    "price": 600,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/WhatsAppImage2026-05-12at1.09.23PM_1_3.jpg"
+  ],
+  "isBestseller": true,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 10
+ },
+ {
+  "handle": "gluten-free-carrot-cake",
+  "name": "Carrot Cake",
+  "category": "cakes",
+  "subcategory": "Celebration Cakes",
+  "dietary": [
+   "Vegan"
+  ],
+  "description": "Old Fashion Carrot Cake, with chopped walnuts and cozy spices. Topped with a delicious cream cheese frosting.\nThe perfect cake to go with your cuppa.",
+  "variants": [
+   {
+    "name": "6 inch",
+    "price": 1350,
+    "available": true
+   },
+   {
+    "name": "8 inch",
+    "price": 2400,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/PhotoRoom_20240109_144457_1.jpg",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/E511ADDE-0039-4322-97AA-67B9B1B9DA4B_1.png"
+  ],
+  "isBestseller": false,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 11
+ },
+ {
+  "handle": "seed-crackers",
+  "name": "Seed Crackers",
+  "category": "pantry",
+  "subcategory": "Crackers",
+  "dietary": [
+   "Eggless",
+   "Gluten Free",
+   "Sugar Free",
+   "Vegan"
+  ],
+  "description": "Seed Crackers ~ For Hormonal Balance, Good Skin & Hair. Packed with Protein, fiber and Omega 3's. Gluten Free and Vegan. Perfect for snacking, travel and cheeseboards.",
+  "variants": [
+   {
+    "name": "Standard",
+    "price": 300,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/sourdough-crackers-6.jpg"
+  ],
+  "isBestseller": false,
+  "isCorporate": true,
+  "isMadeToOrder": false,
+  "sortOrder": 12
+ },
+ {
+  "handle": "oatmeal-crackers",
+  "name": "Oatmeal Crackers",
+  "category": "pantry",
+  "subcategory": "Crackers",
+  "dietary": [
+   "Eggless",
+   "Vegan"
+  ],
+  "description": "Oatmeal Crackers ~ Stone-ground oats baked into golden, toasted wafers. A wholesome, biscuity snack that feels light yet filling.",
+  "variants": [
+   {
+    "name": "Standard",
+    "price": 300,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/WhatsAppImage2024-05-08at2.17.54PM.jpg"
+  ],
+  "isBestseller": false,
+  "isCorporate": true,
+  "isMadeToOrder": false,
+  "sortOrder": 13
+ },
+ {
+  "handle": "sourdough-crackers",
+  "name": "Sourdough Crackers",
+  "category": "pantry",
+  "subcategory": "Crackers",
+  "dietary": [
+   "Eggless",
+   "Sugar Free",
+   "Vegan"
+  ],
+  "description": "Sourdough Crackers ~ Thin and Crispy crackers made with sourdough discard seasoned with Sesame seeds and Maldon Sea Salt.",
+  "variants": [
+   {
+    "name": "Standard",
+    "price": 300,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/CrackersLifestyle_1_1.jpg",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/IMG_20260505_110239_jpg.jpg"
+  ],
+  "isBestseller": false,
+  "isCorporate": true,
+  "isMadeToOrder": false,
+  "sortOrder": 14
+ },
+ {
+  "handle": "dark-chocolate-almonds",
+  "name": "Dark Chocolate Almonds Rocks",
+  "category": "chocolate",
+  "subcategory": "Almond Rocks",
+  "dietary": [
+   "Eggless",
+   "Gluten Free",
+   "Vegan"
+  ],
+  "description": "A composition of roasted almonds and dark chocolate, lifted with notes of bitter orange and cacao.Structured, restrained, and quietly indulgent. Naturally rich in healthy fats, magnesium, and antioxidants — supporting steady energy and a more balanced way to indulge.",
+  "variants": [
+   {
+    "name": "Chocolate 54 % / 100g / Ceremony Box",
+    "price": 950,
+    "available": true
+   },
+   {
+    "name": "Chocolate 70% / 100g / Ceremony Box",
+    "price": 1000,
+    "available": true
+   },
+   {
+    "name": "Chocolate 54 % / 200g / Ceremony Box",
+    "price": 1900,
+    "available": true
+   },
+   {
+    "name": "Chocolate 70% / 200g / Ceremony Box",
+    "price": 2000,
+    "available": true
+   },
+   {
+    "name": "Chocolate 54 % / 300g / Itk Classic Box",
+    "price": 2850,
+    "available": true
+   },
+   {
+    "name": "Chocolate 70% / 300g / Itk Classic Box",
+    "price": 3000,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/WhatsApp_Image_2026-05-25_at_2.46.27_PM.jpg",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/WhatsAppImage2026-05-25at8.45.41AM.jpg",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/WhatsApp_Image_2026-05-25_at_2.46.27_PM_1.jpg"
+  ],
+  "isBestseller": true,
+  "isCorporate": true,
+  "isMadeToOrder": false,
+  "sortOrder": 15
+ },
+ {
+  "handle": "signature-chocolate-cake",
+  "name": "Signature Chocolate Cake",
+  "category": "cakes",
+  "subcategory": "Celebration Cakes",
+  "dietary": [],
+  "description": "Our signature chocolate cake is rich, moist and velvety. The soft chocolate cake layers are packed with dark chocolate and a generous helping of chocolate custard. This is pastry decadence at its best.",
+  "variants": [
+   {
+    "name": "6 inch 750g",
+    "price": 1650,
+    "available": true
+   },
+   {
+    "name": "8 inch 1.4kg",
+    "price": 2550,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/revised-signnaturechocolate2.png",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/revised-signnaturechocolate1.png"
+  ],
+  "isBestseller": true,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 16
+ },
+ {
+  "handle": "croquembouche-1",
+  "name": "Croquembouche",
+  "category": "cakes",
+  "subcategory": "Celebration Cakes",
+  "dietary": [],
+  "description": "A spectacular masterpiece of caramel-covered cream puffs filled with an assortment of Vanilla, Coffee and Chocolate pastry cream, the croquembouche is the ultimate ceremonial cake.",
+  "variants": [
+   {
+    "name": "Standard",
+    "price": 7500,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/ChatGPT_Image_Sep_9_2026_at_05_17_40_PM.png"
+  ],
+  "isBestseller": false,
+  "isCorporate": false,
+  "isMadeToOrder": true,
+  "sortOrder": 17
+ },
+ {
+  "handle": "tiramisu-gluten-free-copy",
+  "name": "Tiramisu",
+  "category": "cakes",
+  "subcategory": "Celebration Cakes",
+  "dietary": [],
+  "description": "A classic transformed, this layered tiramisu cake pairs coffee and rum soaked home made lady finger biscuits with a mix of whipped mascarpone and zabaglione.",
+  "variants": [
+   {
+    "name": "6 Inch~600g",
+    "price": 1400,
+    "available": true
+   },
+   {
+    "name": "8 Inch~950g",
+    "price": 2100,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/revised-tiramisu1.png",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/revised-tiramisu12.png"
+  ],
+  "isBestseller": false,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 18
+ },
+ {
+  "handle": "chocolate-chip-cookie",
+  "name": "Chocolate Chip Cookie",
+  "category": "chocolate",
+  "subcategory": "Cookies",
+  "dietary": [],
+  "description": "Gooey Melty Chocolate chip cookies with flaky sea salt topping",
+  "variants": [
+   {
+    "name": "EGG / S · 4 Cookies",
+    "price": 650,
+    "available": true
+   },
+   {
+    "name": "EGG / L · 12 Cookies",
+    "price": 1250,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/revised-chocolate_chip_cookie.png",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/a7695bb7-09a7-4e1a-879e-1b1273136244_1.jpg"
+  ],
+  "isBestseller": false,
+  "isCorporate": true,
+  "isMadeToOrder": false,
+  "sortOrder": 19
+ },
+ {
+  "handle": "grain-free-buckwheat-granola",
+  "name": "Grain Free Buckwheat Granola",
+  "category": "pantry",
+  "subcategory": "Granola",
+  "dietary": [
+   "Eggless",
+   "Gluten Free",
+   "Sugar Free",
+   "Vegan"
+  ],
+  "description": "Naturally grain-free and crafted for those who love a wholesome, earthy crunch. This mix of nutrient-dense buckwheat and slow-toasted seeds is glazed in honey for a light finish.",
+  "variants": [
+   {
+    "name": "Standard",
+    "price": 675,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/WhatsAppImage2026-05-12at2.39.47PM_1.jpg"
+  ],
+  "isBestseller": false,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 20
+ },
+ {
+  "handle": "honey-comb-chocolate",
+  "name": "Honey Comb Chocolate",
+  "category": "chocolate",
+  "subcategory": "Honeycomb",
+  "dietary": [
+   "Eggless",
+   "Gluten Free"
+  ],
+  "description": "Crunchy chunks of honeycomb covered in smooth and creamy chocolate. This sweet treat will take you right back to your childhood.",
+  "variants": [
+   {
+    "name": "Milk Chocolate / 100g",
+    "price": 750,
+    "available": true
+   },
+   {
+    "name": "Dark Chocolate / 100g",
+    "price": 850,
+    "available": true
+   },
+   {
+    "name": "Milk Chocolate / 200g",
+    "price": 1450,
+    "available": true
+   },
+   {
+    "name": "Dark Chocolate / 200g",
+    "price": 1650,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/Honeycomb_1_1.jpg",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/9a07198f-abb0-4609-be69-60271b1433dc.jpg",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/1ac69f04-4e2f-4fd4-bd07-425ef23e2d4b.jpg",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/Honeycomb_2_1.jpg"
+  ],
+  "isBestseller": false,
+  "isCorporate": true,
+  "isMadeToOrder": false,
+  "sortOrder": 21
+ },
+ {
+  "handle": "sticky-toffee-pudding",
+  "name": "Sticky Toffee Pudding",
+  "category": "cakes",
+  "subcategory": "Celebration Cakes",
+  "dietary": [],
+  "description": "British dessert consisting of a moist sponge cake, made with finely chopped dates, with toffee sauce on the side and served with vanilla ice-cream for some extra oomph.",
+  "variants": [
+   {
+    "name": "805g",
+    "price": 2750,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/643B7BC8-0C91-4BFF-AA04-524800B31A2A.png"
+  ],
+  "isBestseller": false,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 22
+ },
+ {
+  "handle": "oatmeal-and-raisin-cookies",
+  "name": "Oatmeal and Raisin Cookies",
+  "category": "pantry",
+  "subcategory": "Cookies",
+  "dietary": [],
+  "description": "Soft and chewy with burnt butter caramel flavour, for when you have a serious craving for something wholesome. Made with brown sugar, vanilla, burnt butter, chewy oats, black currants, and a secret ingredient, you will keep coming back for more.",
+  "variants": [
+   {
+    "name": "Egg / 4 Cookies in a Box / Ceremony Box",
+    "price": 650,
+    "available": true
+   },
+   {
+    "name": "Egg / 12 Cookies in a Box / Ceremony Box",
+    "price": 1250,
+    "available": true
+   },
+   {
+    "name": "Egg / 12 Cookies in a Box / Itk Classic Box",
+    "price": 1250,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/revised-oatmeal_and_raisin.png",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/a7695bb7-09a7-4e1a-879e-1b1273136244_2.jpg"
+  ],
+  "isBestseller": false,
+  "isCorporate": true,
+  "isMadeToOrder": false,
+  "sortOrder": 23
+ },
+ {
+  "handle": "walnut-brownies",
+  "name": "Walnut Brownies",
+  "category": "chocolate",
+  "subcategory": "Brownies",
+  "dietary": [],
+  "description": "Perfected over time.\nDense, chocolate-rich with a thin crust and slow roasted walnuts",
+  "variants": [
+   {
+    "name": "4Pcs Box ~ 260g",
+    "price": 1400,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/Brownie_box_1_1.jpg",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/Single_Serve_Walnut_Brownie_1.jpg"
+  ],
+  "isBestseller": false,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 24
+ },
+ {
+  "handle": "walnut-brownies-copy",
+  "name": "Biscoff Brownie",
+  "category": "chocolate",
+  "subcategory": "Brownies",
+  "dietary": [],
+  "description": "Perfected over time.\nDense, chocolate-rich with a thin crust and dark, speckled with crispy biscoff biscuits",
+  "variants": [
+   {
+    "name": "4Pcs Box ~ 260g",
+    "price": 1400,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/Brownie_box_1_2.jpg"
+  ],
+  "isBestseller": false,
+  "isCorporate": true,
+  "isMadeToOrder": false,
+  "sortOrder": 25
+ },
+ {
+  "handle": "biscoff-brownie-copy",
+  "name": "Jaggery Millet Brownie",
+  "category": "chocolate",
+  "subcategory": "Brownies",
+  "dietary": [
+   "Gluten Free",
+   "Sugar Free"
+  ],
+  "description": "Made with Sorghum Flour, jaggery, these brownies are gluten free and refined sugar free. Dense, chocolate-rich with a thin crust, speckled with nuts.",
+  "variants": [
+   {
+    "name": "4Pcs Box ~ 260g",
+    "price": 1400,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/revised-jaggerymilletbrownie.png"
+  ],
+  "isBestseller": true,
+  "isCorporate": true,
+  "isMadeToOrder": false,
+  "sortOrder": 26
+ },
+ {
+  "handle": "coffee-cloud-cake-copy",
+  "name": "Matcha Cloud Cake",
+  "category": "cakes",
+  "subcategory": "Celebration Cakes",
+  "dietary": [
+   "Gluten Free",
+   "Sugar Free"
+  ],
+  "description": "What is Ceremony without Ceremonial Grade Matcha? Our Matcha Gâteau au Chocolat - a cake that's light, delicately fudgy, and melts effortlessly on the palate.\nA little Japanese restraint. A little French indulgence.",
+  "variants": [
+   {
+    "name": "6 inch",
+    "price": 1850,
+    "available": true
+   },
+   {
+    "name": "8 inch",
+    "price": 2850,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/WhatsAppImage2026-07-22at4.23.51PM.jpg"
+  ],
+  "isBestseller": false,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 27
+ },
+ {
+  "handle": "bark",
+  "name": "Toffee Barks",
+  "category": "chocolate",
+  "subcategory": "Barks",
+  "dietary": [
+   "Eggless",
+   "Gluten Free"
+  ],
+  "description": "The Toffee Bark is rich, buttery, sweet, and salty with a layer of toffee, dark chocolate, roasted almonds and a sprinkle of sea salt. Our Bark is crafted for a clean snap and addictive like adult nutty's. These make for a wonderful gift that will put you in the category of best gift giver.",
+  "variants": [
+   {
+    "name": "TOFFEE / S · 100g / Ceremony Box",
+    "price": 750,
+    "available": true
+   },
+   {
+    "name": "COFFEE / S · 100g / Ceremony Box",
+    "price": 750,
+    "available": true
+   },
+   {
+    "name": "PISTA / S · 100g / Ceremony Box",
+    "price": 750,
+    "available": true
+   },
+   {
+    "name": "ORANGE / S · 100g / Ceremony Box",
+    "price": 750,
+    "available": true
+   },
+   {
+    "name": "TOFFEE / M · 200g / Ceremony Box",
+    "price": 1500,
+    "available": true
+   },
+   {
+    "name": "COFFEE / M · 200g / Ceremony Box",
+    "price": 1500,
+    "available": true
+   },
+   {
+    "name": "PISTA / M · 200g / Ceremony Box",
+    "price": 1500,
+    "available": true
+   },
+   {
+    "name": "ORANGE / M · 200g / Ceremony Box",
+    "price": 1500,
+    "available": true
+   },
+   {
+    "name": "TOFFEE / L · 300g / ITK CLASSIC BOX",
+    "price": 2250,
+    "available": true
+   },
+   {
+    "name": "COFFEE / L · 300g / ITK CLASSIC BOX",
+    "price": 2250,
+    "available": true
+   },
+   {
+    "name": "PISTA / L · 300g / ITK CLASSIC BOX",
+    "price": 2250,
+    "available": true
+   },
+   {
+    "name": "ORANGE / L · 300g / ITK CLASSIC BOX",
+    "price": 2250,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/WhatsApp_Image_2026-05-12_at_2.16.14_PM.jpg",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/WhatsApp_Image_2026-05-12_at_1.39.56_PM.jpg",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/IMG_20260512_141658_jpg.jpg",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/290f75a8-1f97-40b3-a1c4-87ba4d1a63ee.jpg"
+  ],
+  "isBestseller": true,
+  "isCorporate": true,
+  "isMadeToOrder": false,
+  "sortOrder": 28
+ },
+ {
+  "handle": "assorted-brownies-copy",
+  "name": "Assorted Brownies",
+  "category": "chocolate",
+  "subcategory": "Brownies",
+  "dietary": [
+   "Sugar Free"
+  ],
+  "description": "Assorted Brownies\nA refined Indulgence. Experience the art of fine chocolate with our elegantly curated selection of assorted brownies. Each piece is handcrafted to perfection, featuring rich, fudgy textures layered with premium ingredients—from crunchy nuts to delicate biscuit accents and smooth chocolate drizzles.\nThoughtfully crafted for moments of indulgence, every bite is a celebration of depth, flavor, and timeless sophistication.",
+  "variants": [
+   {
+    "name": "4 Pcs ~ 260g / Ceremony Box",
+    "price": 1400,
+    "available": true
+   },
+   {
+    "name": "12 Pcs ~ 500g / ITK Classic Box",
+    "price": 2400,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/WhatsAppImage2026-05-01at2.48.23PM.jpg",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/WhatsApp_Image_2026-05-01_at_4.15.06_PM.jpg"
+  ],
+  "isBestseller": false,
+  "isCorporate": true,
+  "isMadeToOrder": false,
+  "sortOrder": 29
+ },
+ {
+  "handle": "flourless-chocolate-cloud-cake-copy",
+  "name": "Keto Coffee Cloud Cake",
+  "category": "cakes",
+  "subcategory": "Celebration Cakes",
+  "dietary": [
+   "Gluten Free",
+   "Sugar Free",
+   "Keto"
+  ],
+  "description": "Naturally gluten free since it has zero flour, the keto cloud cake yields an ultra-moist, and melt-in-your-mouth interior. Topped with coffee flavoured mascarpone and dusted with pure dutch processed cocoa powder. No sugar in raw ingredients and no added sugar.",
+  "variants": [
+   {
+    "name": "6 inch",
+    "price": 1850,
+    "available": true
+   },
+   {
+    "name": "8 inch",
+    "price": 2950,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/IMG_20260505_123818_jpg_262ce315-9b3d-42e7-89c3-8c2021c78d33.jpg"
+  ],
+  "isBestseller": true,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 30
+ },
+ {
+  "handle": "chocolate-walnut-tea-cake",
+  "name": "Chocolate Walnut Tea Cake",
+  "category": "cakes",
+  "subcategory": "Tea Cakes",
+  "dietary": [],
+  "description": "The Perfect Tea Cake, crafted with Intention and Nourishment",
+  "variants": [
+   {
+    "name": "300 gm",
+    "price": 900,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/EF67B824-DBD6-4162-B080-40ECAB2D4DD6.jpg"
+  ],
+  "isBestseller": false,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 31
+ },
+ {
+  "handle": "gf-chocolate-walnut-cake",
+  "name": "Chocolate Walnut Tea Cake Gluten Free",
+  "category": "cakes",
+  "subcategory": "Tea Cakes",
+  "dietary": [
+   "Gluten Free"
+  ],
+  "description": "The Perfect Gluten Free Tea Cake, crafted with intention and nourishment",
+  "variants": [
+   {
+    "name": "300 gm",
+    "price": 1000,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/EF67B824-DBD6-4162-B080-40ECAB2D4DD6_8adc61e4-33da-453a-84cf-2bba7f3cb5f9.jpg"
+  ],
+  "isBestseller": false,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 32
+ },
+ {
+  "handle": "gf-tiramisu-cake",
+  "name": "Tiramisu Gluten Free",
+  "category": "cakes",
+  "subcategory": "Celebration Cakes",
+  "dietary": [
+   "Gluten Free"
+  ],
+  "description": "What can we say, other than the best Tiramisu in town, that too Gluten Free!",
+  "variants": [
+   {
+    "name": "6 Inch",
+    "price": 2000,
+    "available": true
+   },
+   {
+    "name": "8 Inch",
+    "price": 3100,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/revised-tiramisu1_60024c6f-d3fd-46c0-a123-b25ca52526e0.png",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/revised-tiramisu12_1bd445ec-f888-4a5d-8e03-7eed68afaa6f.png"
+  ],
+  "isBestseller": false,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 33
+ },
+ {
+  "handle": "assorted-bon-bon",
+  "name": "Bon Bons",
+  "category": "chocolate",
+  "subcategory": "Bon Bons",
+  "dietary": [
+   "Eggless",
+   "Vegan"
+  ],
+  "description": "A curated collection of our finest bon bons — the Assorted Box is perfect for tasting, gifting, and celebrating every mood and moment. Flavours: Orange, Sea Salt, Caramel, Strawberry, Hazelnut, Chocolate",
+  "variants": [
+   {
+    "name": "8 Pcs in a Box / Assorted / Ceremony Box",
+    "price": 750,
+    "available": true
+   },
+   {
+    "name": "8 Pcs in a Box / Roasted Almond / Ceremony Box",
+    "price": 750,
+    "available": true
+   },
+   {
+    "name": "8 Pcs in a Box / Strawberry / Ceremony Box",
+    "price": 750,
+    "available": true
+   },
+   {
+    "name": "8 Pcs in a Box / Orange / Ceremony Box",
+    "price": 750,
+    "available": true
+   },
+   {
+    "name": "8 Pcs in a Box / Salted Caramel / Ceremony Box",
+    "price": 750,
+    "available": true
+   },
+   {
+    "name": "8 Pcs in a Box / Classic Ganache / Ceremony Box",
+    "price": 750,
+    "available": true
+   },
+   {
+    "name": "8 Pcs in a Box / Coffee Ganache / Ceremony Box",
+    "price": 750,
+    "available": true
+   },
+   {
+    "name": "12 Pcs in a box / Assorted / ITK Classic Box",
+    "price": 1100,
+    "available": true
+   },
+   {
+    "name": "12 Pcs in a box / Roasted Almond / ITK Classic Box",
+    "price": 1100,
+    "available": true
+   },
+   {
+    "name": "12 Pcs in a box / Strawberry / ITK Classic Box",
+    "price": 1100,
+    "available": true
+   },
+   {
+    "name": "12 Pcs in a box / Orange / ITK Classic Box",
+    "price": 1100,
+    "available": true
+   },
+   {
+    "name": "12 Pcs in a box / Salted Caramel / ITK Classic Box",
+    "price": 1100,
+    "available": true
+   },
+   {
+    "name": "12 Pcs in a box / Classic Ganache / ITK Classic Box",
+    "price": 1100,
+    "available": true
+   },
+   {
+    "name": "12 Pcs in a box / Coffee Ganache / ITK Classic Box",
+    "price": 1100,
+    "available": true
+   },
+   {
+    "name": "14 Pcs in a Box / Assorted / Ceremony Box",
+    "price": 1300,
+    "available": true
+   },
+   {
+    "name": "14 Pcs in a Box / Roasted Almond / Ceremony Box",
+    "price": 1300,
+    "available": true
+   },
+   {
+    "name": "14 Pcs in a Box / Strawberry / Ceremony Box",
+    "price": 1300,
+    "available": true
+   },
+   {
+    "name": "14 Pcs in a Box / Orange / Ceremony Box",
+    "price": 1300,
+    "available": true
+   },
+   {
+    "name": "14 Pcs in a Box / Salted Caramel / Ceremony Box",
+    "price": 1300,
+    "available": true
+   },
+   {
+    "name": "14 Pcs in a Box / Classic Ganache / Ceremony Box",
+    "price": 1300,
+    "available": true
+   },
+   {
+    "name": "14 Pcs in a Box / Coffee Ganache / Ceremony Box",
+    "price": 1300,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/11aca04c-3fb6-4e07-b1e8-bb8c2184b094.jpg",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/6D8299A5-D07A-489C-BF8E-08D9D489D46F.jpg",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/DEC66A9B-9C5A-43CC-8C7D-796B8D404EFD.jpg"
+  ],
+  "isBestseller": true,
+  "isCorporate": true,
+  "isMadeToOrder": false,
+  "sortOrder": 34
+ },
+ {
+  "handle": "the-chakra-candle-set",
+  "name": "The 7 Chakra Candle Set",
+  "category": "gifting",
+  "subcategory": "Candles",
+  "dietary": [],
+  "description": "Six Flames. Seven Energies.\nThe Root grounds.\nThe Sacral awakens creativity.\nThe Solar Plexus empowers.\nThe Heart loves.\nThe Throat communicates truth.\nThe Third Eye sees beyond.\nTogether, the Crown awakens.\nStack your energy. Align your spirit.",
+  "variants": [
+   {
+    "name": "Standard",
+    "price": 3800,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/WhatsAppImage2026-03-16at4.15.07PM.jpg",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/WhatsAppImage2026-03-16at4.15.08PM.jpg",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/WhatsAppImage2026-03-16at4.15.09PM.jpg",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/WhatsAppImage2026-03-16at4.15.08PM_1.jpg"
+  ],
+  "isBestseller": false,
+  "isCorporate": true,
+  "isMadeToOrder": false,
+  "sortOrder": 35
+ },
+ {
+  "handle": "lotus-biscoff-cheesecake",
+  "name": "Biscoff Cheesecake",
+  "category": "cakes",
+  "subcategory": "Celebration Cakes",
+  "dietary": [],
+  "description": "A baked Lotus Biscoff cheesecake that’s creamy and rich with a biscuity crumb base.",
+  "variants": [
+   {
+    "name": "7 inch",
+    "price": 2000,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/FullSizeRender.jpg"
+  ],
+  "isBestseller": false,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 36
+ },
+ {
+  "handle": "hand-churned-peanut-butter-with-honey",
+  "name": "Peanut Butter",
+  "category": "pantry",
+  "subcategory": "Spreads",
+  "dietary": [
+   "Eggless",
+   "Gluten Free",
+   "Vegan"
+  ],
+  "description": "Made using traditional methods with only premium roasted peanuts and sweetened using honey. An irresistibly original taste with crispy peanuts and flaky sea salt.",
+  "variants": [
+   {
+    "name": "200 Grams",
+    "price": 300,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/WhatsAppImage2026-05-11at2.07.22PM.jpg"
+  ],
+  "isBestseller": false,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 37
+ },
+ {
+  "handle": "artisanal-healthy-nutella",
+  "name": "Hazelnut Spread",
+  "category": "chocolate",
+  "subcategory": "Spreads",
+  "dietary": [
+   "Eggless",
+   "Gluten Free"
+  ],
+  "description": "Made using 70% Real hazelnuts and single origin chocolate, carefully handcrafted using all-natural ingredients, balanced to a precise, refined sweetness.",
+  "variants": [
+   {
+    "name": "200g",
+    "price": 1450,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/Hazelnut_spread_1.jpg",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/Hazelnut_spread_WB_1.jpg",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/Hazelnut_spread_WB_2.jpg"
+  ],
+  "isBestseller": true,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 38
+ },
+ {
+  "handle": "pecan-brownies",
+  "name": "Pecan Brownies",
+  "category": "chocolate",
+  "subcategory": "Brownies",
+  "dietary": [
+   "Sugar Free"
+  ],
+  "description": "Perfected over time.\nDense, chocolate-rich with a thin crust and slow roasted pecans.",
+  "variants": [
+   {
+    "name": "4 Pcs Box ~ 260g",
+    "price": 1600,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/Brownie_box_1.jpg",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/Pecan_brownie.jpg"
+  ],
+  "isBestseller": false,
+  "isCorporate": true,
+  "isMadeToOrder": false,
+  "sortOrder": 39
+ },
+ {
+  "handle": "onion-chilli-jam",
+  "name": "Onion Chilli Jam",
+  "category": "pantry",
+  "subcategory": "Sauces & Jams",
+  "dietary": [
+   "Eggless",
+   "Gluten Free",
+   "Vegan"
+  ],
+  "description": "The onion chili jam has a sweet and spicy flavor that has a myriad of uses. Think cheese platters, sandwiches, hot dogs, matthi.",
+  "variants": [
+   {
+    "name": "200 Grams",
+    "price": 350,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/WhatsAppImage2026-05-12at12.44.01PM.jpg"
+  ],
+  "isBestseller": true,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 40
+ },
+ {
+  "handle": "keto-gf-roasted-hazelnut-tablet-milk-pack-of-3",
+  "name": "Sugar Free Chocolate Bars",
+  "category": "chocolate",
+  "subcategory": "Chocolate Bars",
+  "dietary": [
+   "Eggless",
+   "Gluten Free",
+   "Sugar Free",
+   "Vegan",
+   "Keto"
+  ],
+  "description": "Available in sugarfree milk with roasted hazelnut, roasted almond and sea salt. Also available in a proprietary blend of dark and sugar free chocolate. The sugar free chocolate is sweetened with maltitol.",
+  "variants": [
+   {
+    "name": "Dark Chocolate 58% / Roasted Almond",
+    "price": 1250,
+    "available": true
+   },
+   {
+    "name": "Dark Chocolate 58% / Roasted Hazelnut",
+    "price": 1250,
+    "available": true
+   },
+   {
+    "name": "Dark Chocolate 58% / Classic Sea Salt",
+    "price": 1250,
+    "available": true
+   },
+   {
+    "name": "Dark Chocolate 58% + 85% / Roasted Almond",
+    "price": 1250,
+    "available": true
+   },
+   {
+    "name": "Dark Chocolate 58% + 85% / Roasted Hazelnut",
+    "price": 1250,
+    "available": true
+   },
+   {
+    "name": "Dark Chocolate 58% + 85% / Classic Sea Salt",
+    "price": 1250,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/IMG_0101Large.jpg",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/84bafc71-5ca2-458d-94ff-8b5a6200a065.jpg",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/revised_-_chocolate_bar.png"
+  ],
+  "isBestseller": true,
+  "isCorporate": true,
+  "isMadeToOrder": false,
+  "sortOrder": 41
+ },
+ {
+  "handle": "assorted-keto-truffles",
+  "name": "Keto Truffles",
+  "category": "chocolate",
+  "subcategory": "Truffles",
+  "dietary": [
+   "Eggless",
+   "Gluten Free",
+   "Sugar Free",
+   "Vegan",
+   "Keto"
+  ],
+  "description": "Made entirely with a masterful blend of dark chocolate and sugar free chocolate, at 70 calories a pop, 4 gms of carbs, 2 gms of protein and 6 gms of fat per truffle",
+  "variants": [
+   {
+    "name": "8 Pcs in a Box / Assorted / Ceremony Box",
+    "price": 1250,
+    "available": true
+   },
+   {
+    "name": "8 Pcs in a Box / Hazelnut / Ceremony Box",
+    "price": 1250,
+    "available": true
+   },
+   {
+    "name": "8 Pcs in a Box / Coffee / Ceremony Box",
+    "price": 1250,
+    "available": true
+   },
+   {
+    "name": "8 Pcs in a Box / Almond / Ceremony Box",
+    "price": 1250,
+    "available": true
+   },
+   {
+    "name": "8 Pcs in a Box / Classic Chocolate / Ceremony Box",
+    "price": 1250,
+    "available": true
+   },
+   {
+    "name": "12 Pcs in a Box / Assorted / Ceremony Box",
+    "price": 1250,
+    "available": true
+   },
+   {
+    "name": "12 Pcs in a Box / Hazelnut / Ceremony Box",
+    "price": 1250,
+    "available": true
+   },
+   {
+    "name": "12 Pcs in a Box / Coffee / Ceremony Box",
+    "price": 1250,
+    "available": true
+   },
+   {
+    "name": "12 Pcs in a Box / Almond / Ceremony Box",
+    "price": 1250,
+    "available": true
+   },
+   {
+    "name": "12 Pcs in a Box / Classic Chocolate / Ceremony Box",
+    "price": 1250,
+    "available": true
+   },
+   {
+    "name": "12 Pcs in a Box / Assorted / ITK CLASSIC BOX",
+    "price": 1850,
+    "available": true
+   },
+   {
+    "name": "12 Pcs in a Box / Hazelnut / ITK CLASSIC BOX",
+    "price": 1850,
+    "available": true
+   },
+   {
+    "name": "12 Pcs in a Box / Coffee / ITK CLASSIC BOX",
+    "price": 1850,
+    "available": true
+   },
+   {
+    "name": "12 Pcs in a Box / Almond / ITK CLASSIC BOX",
+    "price": 1850,
+    "available": true
+   },
+   {
+    "name": "12 Pcs in a Box / Classic Chocolate / ITK CLASSIC BOX",
+    "price": 1850,
+    "available": true
+   },
+   {
+    "name": "14 Pcs in a Box / Assorted / Ceremony Box",
+    "price": 2150,
+    "available": true
+   },
+   {
+    "name": "14 Pcs in a Box / Hazelnut / Ceremony Box",
+    "price": 2150,
+    "available": true
+   },
+   {
+    "name": "14 Pcs in a Box / Coffee / Ceremony Box",
+    "price": 2150,
+    "available": true
+   },
+   {
+    "name": "14 Pcs in a Box / Almond / Ceremony Box",
+    "price": 2150,
+    "available": true
+   },
+   {
+    "name": "14 Pcs in a Box / Classic Chocolate / Ceremony Box",
+    "price": 2150,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/e1957453-95f1-40a6-a030-d3bf1100cfc8.jpg",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/AssortedTruffles_d7345deb-443f-4b65-af8e-8c6775769a84.jpg",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/90e102fb-24b3-4c4c-9aed-e09022b21558.jpg"
+  ],
+  "isBestseller": true,
+  "isCorporate": true,
+  "isMadeToOrder": false,
+  "sortOrder": 42
+ },
+ {
+  "handle": "keto-almond-truffles",
+  "name": "Assorted Truffles: Chef Curation",
+  "category": "chocolate",
+  "subcategory": "Truffles",
+  "dietary": [
+   "Eggless",
+   "Gluten Free",
+   "Sugar Free",
+   "Vegan"
+  ],
+  "description": "A French chocolate confectionery traditionally made with a chocolate ganache centre, handrolled and coated with different flavours like Sea Salt, Roasted Almond, Coffee, Hazelnut. We are always trying new flavours - life's like a box of chocolate - you never know what you are gonna get!",
+  "variants": [
+   {
+    "name": "8 Pcs",
+    "price": 1350,
+    "available": true
+   },
+   {
+    "name": "14 Pcs",
+    "price": 2500,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/IMG_20260520_132420_jpg.jpg",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/IMG_20260520_132437_jpg.jpg",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/IMG_20260520_132458_jpg.jpg"
+  ],
+  "isBestseller": true,
+  "isCorporate": true,
+  "isMadeToOrder": false,
+  "sortOrder": 43
+ },
+ {
+  "handle": "gf-orange-cake-with-orange-curd",
+  "name": "Orange Cake with Orange Curd Gluten Free",
+  "category": "cakes",
+  "subcategory": "Celebration Cakes",
+  "dietary": [
+   "Gluten Free"
+  ],
+  "description": "Made with whole oranges, soft, rich, and flavorful, Italian almond and orange cake. It’s topped with a fresh orange curd and drenched in home made Cointreau.",
+  "variants": [
+   {
+    "name": "6 Inch ~ 500g",
+    "price": 1350,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/revised-Orange_Cake_with_Orange_Curd_Gluten_Free.png",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/GlutenFreeCake2.jpg"
+  ],
+  "isBestseller": false,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 44
+ },
+ {
+  "handle": "keto-gf-chocolate-cotton-cake-with-coffee-cloud",
+  "name": "Coffee Cloud Cake",
+  "category": "pantry",
+  "subcategory": "Cakes",
+  "dietary": [
+   "Gluten Free",
+   "Sugar Free"
+  ],
+  "description": "Completely Gluten free and tastes like a cross between a truffle and a brownie! Topped with coffee flavoured Mascarpone.",
+  "variants": [
+   {
+    "name": "6 inch",
+    "price": 1650,
+    "available": true
+   },
+   {
+    "name": "8 inch",
+    "price": 2650,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/44B2AC47-5B6E-4F7C-93E5-C9FFCEEF9729.jpg",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/83DE0A84-C1D0-43CC-A577-98BA5041FF25_eb870f03-32c0-4589-b7b7-b7cf724674b2.jpg"
+  ],
+  "isBestseller": false,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 45
+ },
+ {
+  "handle": "madelines",
+  "name": "Madeleines",
+  "category": "cakes",
+  "subcategory": "Tea Cakes",
+  "dietary": [],
+  "description": "This mini cake was made by a local woman named Madeline for the King of France and where ever he went, Madelines followed. Flavour options include - Vanilla, Chocolate Chip, Lemon. Best Served with Tea and Coffee.",
+  "variants": [
+   {
+    "name": "4 Pcs / Ceremony Box",
+    "price": 650,
+    "available": true
+   },
+   {
+    "name": "12 Pcs / Ceremony Box",
+    "price": 1200,
+    "available": true
+   },
+   {
+    "name": "12 Pcs / ITK CLASSIC BOX",
+    "price": 1200,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/WhatsAppImage2026-05-12at9.55.24AM.jpg",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/IMG_20260512_095315_jpg.jpg"
+  ],
+  "isBestseller": true,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 46
+ },
+ {
+  "handle": "marble-cake-with-rocher-glaze",
+  "name": "Marble Cake with Rocher Glaze",
+  "category": "cakes",
+  "subcategory": "Cakes",
+  "dietary": [],
+  "description": "With swirls of tender vanilla and fudgy chocolate cake, marble cake is pure old-fashioned goodness covered with a signature Ferrero Rocher glaze.",
+  "variants": [
+   {
+    "name": "300 g",
+    "price": 1000,
+    "available": true
+   },
+   {
+    "name": "6 inch ~ 500g",
+    "price": 1200,
+    "available": true
+   },
+   {
+    "name": "8 inch - 1000g",
+    "price": 1800,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/MarbleCakeLS.jpg"
+  ],
+  "isBestseller": true,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 47
+ },
+ {
+  "handle": "apple-walnut-cake",
+  "name": "Apple Walnut Cake",
+  "category": "cakes",
+  "subcategory": "Celebration Cakes",
+  "dietary": [],
+  "description": "Childhood masterpiece - have been making it since I was 12 - and even after Cordon Bleu - The recipe is pure gold.",
+  "variants": [
+   {
+    "name": "6 inch",
+    "price": 1150,
+    "available": true
+   },
+   {
+    "name": "8 inch",
+    "price": 1650,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/IMG_20260505_152824_jpg.jpg"
+  ],
+  "isBestseller": true,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 48
+ },
+ {
+  "handle": "concerto-chocolate-cake",
+  "name": "Concerto Chocolate Cake",
+  "category": "cakes",
+  "subcategory": "Cakes",
+  "dietary": [],
+  "description": "Decadent chocolate mousse cake, with layers of hazelnut & almond praline & feuilletine crunch.",
+  "variants": [
+   {
+    "name": "6 inch 750gm",
+    "price": 1750,
+    "available": true
+   },
+   {
+    "name": "8 inch 1.4kg",
+    "price": 2800,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/revised-Concerto_Chocolate_Cake.png",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/Concerto2.jpg"
+  ],
+  "isBestseller": true,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 49
+ },
+ {
+  "handle": "hazelnut-spread-copy",
+  "name": "Dark Chocolate Mix",
+  "category": "chocolate",
+  "subcategory": "Drinking Chocolate",
+  "dietary": [
+   "Eggless",
+   "Gluten Free",
+   "Sugar Free"
+  ],
+  "description": "A deep, high-cocoa blend crafted for the purist. Whether you whisk it into hot milk, cold water or stir it into cold cream, it feels like drinking a bar of perfectly balanced, bittersweet chocolate.",
+  "variants": [
+   {
+    "name": "225g",
+    "price": 1550,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/WhatsAppImage2026-05-12at1.09.22PM.jpg"
+  ],
+  "isBestseller": true,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 50
+ },
+ {
+  "handle": "dark-chocolate-mix-copy",
+  "name": "Milk Chocolate Mix",
+  "category": "chocolate",
+  "subcategory": "Drinking Chocolate",
+  "dietary": [
+   "Eggless",
+   "Gluten Free",
+   "Sugar Free"
+  ],
+  "description": "The ultimate comfort in a cup, offering a smooth, creamy profile with a toasted honey-like sweetness. It transforms into a rich, fluid version of a classic chocolate bar—uncompromisingly smooth and indulgent. Perfect as a velvety hot cocoa or a refreshing chilled treat, mixed exactly how you prefer.",
+  "variants": [
+   {
+    "name": "225g",
+    "price": 1450,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/WhatsAppImage2026-05-12at1.09.23PM.jpg"
+  ],
+  "isBestseller": true,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 51
+ },
+ {
+  "handle": "ultimate-pecan-granola-copy-1",
+  "name": "Pecan Granola with Chocolate",
+  "category": "chocolate",
+  "subcategory": "Granola",
+  "dietary": [
+   "Eggless",
+   "Gluten Free",
+   "Sugar Free",
+   "Vegan"
+  ],
+  "description": "Fine pecans and dark chocolate chunks tossed with slow-toasted oats, pumpkin seeds, and brown rice puffs. Glazed in honey and cinnamon for a light, golden crunch.",
+  "variants": [
+   {
+    "name": "150g",
+    "price": 750,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/WhatsAppImage2026-05-12at2.39.48PM.jpg"
+  ],
+  "isBestseller": false,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 52
+ },
+ {
+  "handle": "apple-walnut-cake-copy",
+  "name": "Apple Walnut Cake Gluten Free",
+  "category": "cakes",
+  "subcategory": "Celebration Cakes",
+  "dietary": [
+   "Gluten Free"
+  ],
+  "description": "Apple Walnut Cake with Gluten Free Sorghum Flour. Childhood masterpiece - have been making it since I was 12 - and even after Cordon Bleu - The recipe is pure gold.",
+  "variants": [
+   {
+    "name": "300g",
+    "price": 650,
+    "available": true
+   },
+   {
+    "name": "6 inch",
+    "price": 1250,
+    "available": true
+   },
+   {
+    "name": "8 inch",
+    "price": 1750,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/IMG_20260505_152824_jpg_f0607a89-f428-49ac-8618-9f080c44c87e.jpg"
+  ],
+  "isBestseller": false,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 53
+ },
+ {
+  "handle": "keto-gf-chocolate-torte-copy",
+  "name": "Chocolate Torte Gluten Free",
+  "category": "cakes",
+  "subcategory": "Celebration Cakes",
+  "dietary": [
+   "Gluten Free"
+  ],
+  "description": "Nut flour based Dark Chocolate Cake, with no gluten. Long lasting, the perfect travel companion.",
+  "variants": [
+   {
+    "name": "6 Inch ~ 500g",
+    "price": 3000,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/WhatsAppImage2026-07-22at4.29.37PM_1a434785-b3cc-443f-9f97-20ee7eaee03e.jpg"
+  ],
+  "isBestseller": false,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 54
+ },
+ {
+  "handle": "signature-chocolate-cake-copy",
+  "name": "Vegan Signature Chocolate Cake",
+  "category": "cakes",
+  "subcategory": "Celebration Cakes",
+  "dietary": [
+   "Vegan"
+  ],
+  "description": "As any good chocolate cake fanatic, I have a strong idea of how a chocolate cake should taste: rich, dark, moist, decadent....this one does all of the above and more.",
+  "variants": [
+   {
+    "name": "6 inch",
+    "price": 1650,
+    "available": true
+   },
+   {
+    "name": "8 inch",
+    "price": 2700,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/revised-signnaturechocolate2_f8666bf5-b456-4a10-8ba5-d7614a675729.png",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/revised-signnaturechocolate1_fb16b98f-506c-45d9-916f-5e5262d1853d.png"
+  ],
+  "isBestseller": false,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 55
+ },
+ {
+  "handle": "vegan-signature-chocolate-cake-copy",
+  "name": "Signature Chocolate Cake Gluten Free",
+  "category": "cakes",
+  "subcategory": "Celebration Cakes",
+  "dietary": [
+   "Gluten Free"
+  ],
+  "description": "As any good chocolate cake fanatic, I have a strong idea of how a chocolate cake should taste: rich, dark, moist, decadent....this one does all of the above and more.",
+  "variants": [
+   {
+    "name": "6 inch",
+    "price": 1750,
+    "available": true
+   },
+   {
+    "name": "8 inch",
+    "price": 2900,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/revised-signnaturechocolate2_376602ff-1830-4823-b689-a73f0f687f87.png",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/revised-signnaturechocolate1_982c7e92-4003-441f-a3ff-7c65730b93cf.png"
+  ],
+  "isBestseller": false,
+  "isCorporate": false,
+  "isMadeToOrder": false,
+  "sortOrder": 56
+ },
+ {
+  "handle": "sugar-free-nut-seed-bark",
+  "name": "Sugar Free Nut & Seed Bark",
+  "category": "chocolate",
+  "subcategory": "Barks",
+  "dietary": [
+   "Eggless",
+   "Gluten Free",
+   "Sugar Free",
+   "Vegan"
+  ],
+  "description": "This treat is gluten-free, dairy-free, vegan and sugar free. Making it a versatile option for various dietary needs. Designed for everyday hormonal balance + blood sugar stability. Also for Cortisol regulation and nervous system support. Better omega balance, Lower inflammatory load and improved hormone + gut support.",
+  "variants": [
+   {
+    "name": "100g",
+    "price": 1250,
+    "available": true
+   },
+   {
+    "name": "200g",
+    "price": 1950,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/WhatsAppImage2026-05-12at11.37.23AM.jpg"
+  ],
+  "isBestseller": false,
+  "isCorporate": true,
+  "isMadeToOrder": false,
+  "sortOrder": 57
+ },
+ {
+  "handle": "chocolate-chip-cookie-copy",
+  "name": "Chocolate Crinkle Cookie",
+  "category": "chocolate",
+  "subcategory": "Cookies",
+  "dietary": [],
+  "description": "These fudgy chocolate Crinkle Cookies contain all the best parts of a brownie: crackly top crust, fudgy middles, chewy edges, & intense chocolate flavor dusted with pista flakes.",
+  "variants": [
+   {
+    "name": "Egg / 4 Small Cookies in a Box",
+    "price": 650,
+    "available": true
+   },
+   {
+    "name": "Egg / 12 Cookies in a Box",
+    "price": 1250,
+    "available": true
+   }
+  ],
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/revised-chocolate_crinkle_cookie.png",
+   "https://cdn.shopify.com/s/files/1/0788/1303/6847/files/a7695bb7-09a7-4e1a-879e-1b1273136244.jpg"
+  ],
+  "isBestseller": false,
+  "isCorporate": true,
+  "isMadeToOrder": false,
+  "sortOrder": 58
+ }
+]
