@@ -55,15 +55,15 @@ export default function BrandPage() {
         </Reveal>
         <div className="grid grid-cols-1 gap-6 sm:grid-cols-3">
           <div className="flex flex-col items-center justify-center gap-4 rounded-[28px] bg-[#2b1a13] p-10">
-            <span className="relative h-16 w-16"><Image src="/images/logo-mark.webp" alt="Mark" fill className="object-contain" /></span>
+            <span className="relative h-16 w-16"><Image src="/images/logo-mark.png" alt="Mark" fill className="object-contain" /></span>
             <span className="font-display text-2xl text-[#faf3e7]">Cérémony<span className="text-[#c9a24b]"> Kitchen</span></span>
           </div>
           <div className="flex flex-col items-center justify-center gap-4 rounded-[28px] border border-[#2b1a13]/10 bg-white p-10">
-            <span className="relative h-16 w-16"><Image src="/images/logo-mark.webp" alt="Mark" fill className="object-contain" /></span>
+            <span className="relative h-16 w-16"><Image src="/images/logo-mark.png" alt="Mark" fill className="object-contain" /></span>
             <span className="font-display text-2xl text-[#2b1a13]">Cérémony<span className="text-[#c9a24b]"> Kitchen</span></span>
           </div>
           <div className="flex flex-col items-center justify-center gap-4 rounded-[28px] bg-gradient-to-br from-[#c9a24b] to-[#8a6a2c] p-10">
-            <span className="relative h-16 w-16 rounded-full bg-[#2b1a13] p-3"><Image src="/images/logo-mark.webp" alt="Mark" fill className="object-contain p-3" /></span>
+            <span className="relative h-16 w-16 rounded-full bg-[#2b1a13] p-3"><Image src="/images/logo-mark.png" alt="Mark" fill className="object-contain p-3" /></span>
             <span className="font-display text-2xl text-[#2b1a13]">Cérémony</span>
           </div>
         </div>
@@ -150,7 +150,7 @@ export default function BrandPage() {
           <Reveal>
             <div className="mx-auto w-full max-w-[280px] rounded-[36px] border-8 border-[#2b1a13] bg-[#faf3e7] p-3 shadow-2xl">
               <div className="flex items-center gap-2 px-2 pb-3 pt-1">
-                <span className="relative h-7 w-7"><Image src="/images/logo-mark.webp" alt="" fill className="object-contain" /></span>
+                <span className="relative h-7 w-7"><Image src="/images/logo-mark.png" alt="" fill className="object-contain" /></span>
                 <div>
                   <p className="text-xs font-semibold text-[#2b1a13]">ceremonykitchen_</p>
                   <p className="text-[10px] text-[#2b1a13]/50">Chef-crafted · New Delhi</p>

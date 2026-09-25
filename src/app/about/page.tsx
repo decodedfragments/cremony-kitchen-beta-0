@@ -54,7 +54,7 @@ export default function AboutPage() {
       <section className="mx-auto grid max-w-6xl grid-cols-1 items-center gap-14 px-6 py-24 sm:px-10 lg:grid-cols-2">
         <Reveal>
           <div className="relative aspect-[4/5] overflow-hidden rounded-[32px] shadow-2xl">
-            <Image src="/images/about-story.webp" alt="Finishing a chocolate cake by hand" fill sizes="(max-width: 1024px) 90vw, 520px" className="object-cover" />
+            <Image src="/images/about-story.jpg" alt="Finishing a chocolate cake by hand" fill sizes="(max-width: 1024px) 90vw, 520px" className="object-cover" />
           </div>
         </Reveal>
         <Reveal delay={0.1}>

@@ -56,7 +56,7 @@ export function SiteHeader() {
       <div className="mx-auto flex max-w-7xl items-center justify-between px-5 py-4 sm:px-8">
         <Link href="/" className="group flex items-center gap-2.5">
           <span className="relative h-9 w-9 shrink-0">
-            <Image src="/images/logo-mark.webp" alt="Cérémony" fill className="object-contain transition-transform duration-500 group-hover:rotate-45" />
+            <Image src="/images/logo-mark.png" alt="Cérémony" fill className="object-contain transition-transform duration-500 group-hover:rotate-45" />
           </span>
           <span className={`font-display text-xl tracking-wide ${scrolled ? "text-[#2b1a13]" : "text-[#2b1a13]"}`}>
             Cérémony<span className="text-[#c9a24b]"> Kitchen</span>
