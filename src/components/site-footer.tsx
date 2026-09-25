@@ -40,7 +40,7 @@ export function SiteFooter() {
           <div>
             <div className="flex items-center gap-2.5">
               <span className="relative h-9 w-9">
-                <Image src="/images/logo-mark.png" alt="" fill sizes="36px" className="object-contain" />
+                <Image src="/images/logo-mark.webp" alt="" fill sizes="36px" className="object-contain" />
               </span>
               <span className="font-display text-xl">Cérémony Kitchen</span>
             </div>
