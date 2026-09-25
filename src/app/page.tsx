@@ -197,7 +197,7 @@ export default async function HomePage() {
         <div className="relative mx-auto grid max-w-7xl grid-cols-1 items-center gap-14 px-6 sm:px-10 lg:grid-cols-2">
           <Reveal>
             <div className="relative aspect-[4/5] max-w-md overflow-hidden rounded-[32px] shadow-2xl">
-              <Image src="/images/about-story.jpg" alt="Hands finishing a chocolate cake in the kitchen" fill sizes="(max-width: 1024px) 90vw, 450px" className="object-cover" />
+              <Image src="/images/about-story.webp" alt="Hands finishing a chocolate cake in the kitchen" fill sizes="(max-width: 1024px) 90vw, 450px" className="object-cover" />
             </div>
           </Reveal>
           <Reveal delay={0.1}>
